@@ -230,7 +230,7 @@ Kali Linux    ███████████░░░░░░░░░░░
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-vpraveenkumar2004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vpraveenkumar2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Praveen%20Kumar%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveenkumarv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Praveen%20Kumar%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenkumar1618)
 [![GitHub](https://img.shields.io/badge/GitHub-vpraveenkumar2004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vpraveenkumar2004)
 
 </div>
