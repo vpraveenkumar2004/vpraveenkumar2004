@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Praveen%20Kumar%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20Secure%2C%20Real-Time%20Applications&descAlignY=62&descSize=16" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Praveen+Kumar+V+%F0%9F%91%8B;Full+Stack+Developer+%7C+Chennai%2C+TN;Spring+Boot+%2B+React+%2B+Cloud+Enthusiast;Building+Secure+%26+Scalable+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Praveen+Kumar+V+%F0%9F%91%8B;Full+Stack+Developer+%7C+Chennai%2C+TN;Spring+Boot+%2B+Flask+%2B+Cloud+Enthusiast;Building+Secure+%26+Scalable+Applications" />
 </div>
 
 <br/>
@@ -9,6 +9,12 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vpraveenkumar2004&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/vpraveenkumar2004?label=Followers&style=flat-square&color=bf91f3&labelColor=0d1117" alt="Followers" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ---
@@ -222,6 +228,40 @@ Kali Linux    ███████████░░░░░░░░░░░
 🌐 Backend       →  Microservices Architecture, Spring Cloud
 🐳 Containers    →  Kubernetes, Docker Compose, Container Orchestration
 ```
+
+---
+
+## 🤫 Secret Section
+
+<details>
+<summary><strong>🔐 Click here... if you dare 👀</strong></summary>
+
+<br/>
+
+```
+   ██╗  ██╗███████╗██╗     ██╗      ██████╗
+   ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+   ███████║█████╗  ██║     ██║     ██║   ██║
+   ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+   ██║  ██║███████╗███████╗███████╗╚██████╔╝
+   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
+```
+
+> 🙏 Thanks for visiting my profile! You're clearly a curious developer — I respect that.
+
+**Fun facts about me:**
+- 🌙 I code best after midnight
+- ☕ Coffee + Code = My daily routine
+- 🔐 I break things to understand how they work (ethically!)
+- 🎯 Goal for 2026: Land my first full-time role & contribute to open source
+
+**If you're a recruiter reading this:**
+
+> I'm currently **open to opportunities** — full-time, internships, or freelance projects. Let's build something amazing together! 🚀
+
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-Open%20to%20Work-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenkumar1618)
+
+</details>
 
 ---
 
