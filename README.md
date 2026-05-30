@@ -6,23 +6,48 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vpraveenkumar2004&label=Profile%20Views&color=6E40C9&style=for-the-badge" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/vpraveenkumar2004?label=Followers&style=for-the-badge&color=0077B5&logo=github" alt="Followers" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ```java
 public class PraveenKumar {
-    String name        = "Praveen Kumar V";
-    String location    = "Chennai, Tamil Nadu, India";
-    String email       = "vpraveenkumar2004@gmail.com";
-    String role        = "Full Stack Developer";
-    String education   = "B.Tech IT — Velammal Engineering College (CGPA: 8.00)";
-    String[] languages = {"Java", "Python", "JavaScript", "SQL"};
-    String[] frameworks= {"Spring Boot", "React", "Node.js", "Flask"};
-    String passion     = "Building secure, scalable, real-time applications";
-    String status      = "Open to full-time opportunities 🚀";
+
+    String name      = "Praveen Kumar V";
+    String location  = "Chennai, Tamil Nadu, India";
+    String email     = "vpraveenkumar2004@gmail.com";
+    String role      = "Full Stack Developer";
+    String college   = "Velammal Engineering College";
+    String cgpa      = "8.00";
+
+    String[] stack = {
+        "Java", "Python", "JavaScript",
+        "Spring Boot", "React", "Flask",
+        "MySQL", "MongoDB", "Docker"
+    };
+
+    String status = "Open to Opportunities 🚀";
 }
 ```
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -102,7 +127,7 @@ Real-time disaster coordination platform connecting victims with relief organiza
 ### 🐦 Bird Species Classification
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/vpraveenkumar2004/bird-species-classification)
 
-Deep learning model classifying bird species from images using CNN and transfer learning on 200+ species.
+Deep learning model classifying 200+ bird species using CNN and transfer learning.
 
 `Python` `TensorFlow` `CNN` `OpenCV`
 
@@ -112,7 +137,7 @@ Deep learning model classifying bird species from images using CNN and transfer 
 ### 🔐 Certificate Verification System
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/vpraveenkumar2004/certificate-verification-system)
 
-Blockchain-inspired platform ensuring tamper-proof academic and professional credential validation.
+Blockchain-inspired platform ensuring tamper-proof academic credential validation.
 
 `Java` `Spring Boot` `React` `MySQL`
 
@@ -218,10 +243,6 @@ Blockchain-inspired platform ensuring tamper-proof academic and professional cre
   <a href="https://github.com/vpraveenkumar2004">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/vpraveenkumar2004/count.svg" alt="Profile Views" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
